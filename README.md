@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/vk.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/vk-w.svg"></td>  
       <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram-w.svg"></td>  
       <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail-w.svg"></td>  
-      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv2.png">
+      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv3.png">
           <img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv-wh.svg">
           </td>  
       </tr>
