@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-I am Nick, and here I will share my projects (both personal and for university). I have a <b> passion for Data Science </b> and Mathematical statistics.
+I am Nick, and here I will share my projects (both personal and for university). <b> Fields of interest: </b> Data Science/Big Data Analytics, Mathematical statistics.
 
 :school: 2016-2020 -  Moscow Engineering School No. 1580 after Bauman Moscow State Univerity graduate, GPA: 5.0/5
 
