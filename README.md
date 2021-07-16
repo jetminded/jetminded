@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+    <thead>
+      <tr>   
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/vk.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/vk-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/cv.svg">
+          <img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/cv-wh.svg">
+          </td>  
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td><a href="https://vk.com/spitsynn/">Aleksandr Dremov</a></td>  
+      <td><a href="https://t.me/Jetminded">@AlexDrem</a></td>  
+      <td><a href="mailto:spitsyn.na@phystech.edu">dremov.ao@phystech.edu</a></td>
+      <td><a href="">CV</a></td>
+      </tr>
+    </tbody>
+</table>
