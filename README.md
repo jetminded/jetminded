@@ -1,10 +1,10 @@
 ### Hi there! :wave:
 
-I am Nick, and here I will share my projects (both personal and for university)
+I am Nick, and here I will share my projects (both personal and for university). I have a <b> passion for Data Science </b> and Mathematical statistics.
 
 :school: 2016-2020 -  Moscow Engineering School No. 1580 after Bauman Moscow State Univerity graduate, GPA: 5.0/5
 
-:school: currently studying at MIPT DIHT, getting a degree in Applied Mathematics and Computer Science; GPA: 8,25/10
+:school: currently studying at <b> MIPT DIHT </b>, getting a degree in Applied Mathematics and Computer Science; <b> GPA: 8,25/10 </b>
 
 <!--
 **jetminded/jetminded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
