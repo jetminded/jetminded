@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <table>
     <thead>
       <tr>   
-      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/vk.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/vk-w.svg"></td>  
-      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram-w.svg"></td>  
-      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail-w.svg"></td>  
-      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv_blue.svg">
+      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/vk-blue.svg">
+	  <img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/vk-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram-blue.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail-blue.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv-blue.svg">
           <img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv-wh.svg">
           </td>  
       </tr>
