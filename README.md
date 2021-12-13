@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       <td><a href="https://vk.com/spitsynn/">Nickolay Spitsyn</a></td>  
       <td><a href="https://t.me/Jetminded">@Jetminded</a></td>  
       <td><a href="mailto:spitsyn.na@phystech.edu">spitsyn.na@phystech.edu</a></td>
-      <td><a href="">Achievements</a></td>
+      <td><a href="cv.pdf">CV</a></td>
       </tr>
     </tbody>
 </table>
