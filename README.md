@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 	  <img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/vk-w.svg"></td>  
       <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram-blue.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/telegram-w.svg"></td>  
       <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail-blue.svg"><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/gmail-w.svg"></td>  
-      <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv-blue.svg">
-          <img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv-wh.svg">
-          </td>  
       </tr>
     </thead>
     <tbody>
@@ -44,4 +41,8 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 
-<!-- <td><a href="cv.pdf">CV</a></td> -->
+<!--       <td><img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv-blue.svg">
+          <img height="20px" src="https://github.com/jetminded/jetminded/raw/main/assets/cv-wh.svg">
+          </td>  
+		  
+		  <td><a href="cv.pdf">CV</a></td> -->
